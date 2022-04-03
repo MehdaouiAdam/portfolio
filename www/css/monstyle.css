@@ -1,6 +1,8 @@
 /*!
- *Styles perso
+ *Style perso
  */
+
+@import url('https://fonts.googleapis.com/css?family=Epilogue&display=swap');
 
 html,body
 {
@@ -8,12 +10,12 @@ html,body
 }
 
 .paragraph{
-    font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", 
-    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: 'Epilogue', sans-serif;
 }
 
 body {
   background: #ffffff;
+  font-family: 'Epilogue', sans-serif;
 }
 section {
   min-height: 100vh;
